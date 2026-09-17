@@ -1,0 +1,38 @@
+{"question": "I picked the wrong country when I signed up. Can I change it?", "evidence": [{"doc": "getting-started.md", "phrase": "cannot be changed after the workspace is created"}]}
+{"question": "What file types can I use for my logo?", "evidence": [{"doc": "getting-started.md", "phrase": "PNG or JPG file under 2 MB"}]}
+{"question": "Can I fix a typo on an invoice my client already paid?", "evidence": [{"doc": "invoices.md", "phrase": "issue a credit note"}]}
+{"question": "How do I start invoice numbers at 1000 instead of 1?", "evidence": [{"doc": "invoices.md", "phrase": "Settings > Invoices > Numbering"}]}
+{"question": "How many automatic payment reminders can I schedule?", "evidence": [{"doc": "invoices.md", "phrase": "up to three reminders"}]}
+{"question": "What happens if the saved card on a recurring invoice gets declined?", "evidence": [{"doc": "invoices.md", "phrase": "falls back to a normal emailed invoice"}]}
+{"question": "Can my clients pay with PayPal?", "evidence": [{"doc": "payments.md", "phrase": "does not accept PayPal"}]}
+{"question": "Is there an extra transaction fee on the cheapest plan?", "evidence": [{"doc": "payments.md", "phrase": "0.5% platform fee per online payment"}]}
+{"question": "When will money from a card payment reach my bank account?", "evidence": [{"doc": "payments.md", "phrase": "2 business days after the payment"}]}
+{"question": "Can I ask a client for a deposit up front?", "evidence": [{"doc": "payments.md", "phrase": "deposit percentage"}]}
+{"question": "A client paid me eight months ago and wants their money back. Can I refund through Kestrel?", "evidence": [{"doc": "refunds.md", "phrase": "180 days after the original payment"}]}
+{"question": "Do I get the Stripe fee back when I refund someone?", "evidence": [{"doc": "refunds.md", "phrase": "does not return the original processing fee"}]}
+{"question": "A customer filed a chargeback. What should I do?", "evidence": [{"doc": "refunds.md", "phrase": "Upload evidence"}]}
+{"question": "My password reset link doesn't work anymore", "evidence": [{"doc": "account-security.md", "phrase": "expires after 30 minutes"}]}
+{"question": "Can I get two-factor codes by text message?", "evidence": [{"doc": "account-security.md", "phrase": "SMS codes are not supported"}]}
+{"question": "I lost my phone and can't log in with 2FA", "evidence": [{"doc": "account-security.md", "phrase": "sign in with a recovery code"}]}
+{"question": "Can our accountant create invoices?", "evidence": [{"doc": "team-roles.md", "phrase": "cannot create or send invoices"}]}
+{"question": "How many users can I have on the Growth plan and what do extra ones cost?", "evidence": [{"doc": "team-roles.md", "phrase": "8 USD per month each"}, {"doc": "billing-plans.md", "phrase": "5 seats"}]}
+{"question": "How do I hand over the workspace to my business partner?", "evidence": [{"doc": "team-roles.md", "phrase": "Make owner"}]}
+{"question": "What happens when my free trial runs out?", "evidence": [{"doc": "billing-plans.md", "phrase": "moves to the Starter plan"}]}
+{"question": "If I cancel my yearly plan halfway through, do I get money back?", "evidence": [{"doc": "billing-plans.md", "phrase": "does not offer refunds for partial months"}]}
+{"question": "How long can I still access my invoices after canceling?", "evidence": [{"doc": "data-export.md", "phrase": "read-only for 12 months"}]}
+{"question": "Can I connect Xero and QuickBooks at the same time?", "evidence": [{"doc": "integrations.md", "phrase": "but not both at the same time"}]}
+{"question": "How do I verify that a webhook really came from Kestrel?", "evidence": [{"doc": "integrations.md", "phrase": "HMAC-SHA256 signature"}]}
+{"question": "What's the API rate limit?", "evidence": [{"doc": "integrations.md", "phrase": "100 per minute per key"}]}
+{"question": "A client asked me to delete their personal information under GDPR", "evidence": [{"doc": "data-export.md", "phrase": "Anonymize client"}]}
+{"question": "My big CSV export never downloaded", "evidence": [{"doc": "data-export.md", "phrase": "more than 10,000 rows"}]}
+{"question": "My customer says they never got the invoice email", "evidence": [{"doc": "troubleshooting.md", "phrase": "Bounced"}]}
+{"question": "The tax on my invoice is off by a cent", "evidence": [{"doc": "troubleshooting.md", "phrase": "Rounding is applied per line by default"}]}
+{"question": "How do I invoice a business in Germany without charging VAT?", "evidence": [{"doc": "taxes.md", "phrase": "Reverse charge"}]}
+{"question": "Can a line item have both GST and PST?", "evidence": [{"doc": "taxes.md", "phrase": "up to two taxes"}]}
+{"question": "Does Kestrel file my VAT return?", "evidence": [{"doc": "taxes.md", "phrase": "does not file tax returns"}]}
+{"question": "Is there a mobile app for iPhone?", "evidence": []}
+{"question": "Can I track time and bill hourly from a timer?", "evidence": []}
+{"question": "Do you offer a discount for nonprofits?", "evidence": []}
+{"question": "How do I run payroll for my employees?", "evidence": []}
+{"question": "Can I send invoices by WhatsApp?", "evidence": []}
+{"question": "Which languages is the invoice template translated into?", "evidence": []}
